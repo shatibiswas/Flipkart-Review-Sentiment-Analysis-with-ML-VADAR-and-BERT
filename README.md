@@ -1,15 +1,19 @@
 [README.md](https://github.com/user-attachments/files/21590487/README.md)
 
 
-sentiment analysis in python using two different techniques:
 
 
+"This project performs sentiment analysis on Flipkart product reviews using multiple approaches — including traditional machine learning algorithms (Logistic Regression, Naïve Bayes, Support Vector Machines, Random Forest, etc.) and advanced deep learning techniques like BERT. It compares the performance of these methods to classify reviews as positive, negative, or neutral, providing insights into the most effective model for text sentiment classification."
 
+
+Sentiment analysis in python using different techniques:
 VADER (Valence Aware Dictionary and sEntiment Reasoner) - Bag of words approach
 
 Roberta Pretrained Model from 🤗
 
 Huggingface Pipeline
+
+TRADITIONAL ML ALGO
 
 # **Read in Data and NLTK**
 
